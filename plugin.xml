@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+<!-- 制定类-->
+<class>com.woc.chat.plugin.MatchUser.MatchUserPlugin</class>
+ 
+<!-- Plugin meta-data -->
+<name>MatchUserPlugin</name>
+<description>随机匹配聊天的插件.</description>
+<author>zyw</author>
+ 
+<version>1.1</version>
+<date>20/01/2017</date>
+<minServerVersion>3.4.1</minServerVersion>
+<licenseType>gpl</licenseType>
+ 
+<adminconsole>    
+    </adminconsole>
+</plugin>
